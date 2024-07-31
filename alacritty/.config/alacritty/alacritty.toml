@@ -1,0 +1,13 @@
+import = [
+    "~/.config/alacritty/themes/themes/catppuccin_mocha.toml"
+]
+
+  live_config_reload = true
+
+[window]
+padding.x = 5
+padding.y = 5
+
+decorations = "full"
+opacity = 0.9
+startup_mode = "Maximized"
