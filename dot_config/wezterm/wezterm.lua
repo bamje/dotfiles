@@ -22,7 +22,7 @@ config.font = wezterm.font_with_fallback({
 	"Fira Code",
 	"DejaVu Sans Mono",
 })
-config.font_size = 12
+config.font_size = 10
 config.line_height = 1.15
 
 -- ===== Finestra minimal
